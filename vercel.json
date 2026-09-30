@@ -1,0 +1,4 @@
+{
+  "buildCommand": "echo 'TraceSignal frontend is static; no build step required'",
+  "outputDirectory": "client"
+}
