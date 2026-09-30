@@ -1,0 +1,10 @@
+{
+  "name": "vasp-attribution-prototype",
+  "private": true,
+  "version": "0.1.0",
+  "description": "AI-assisted cross-chain transaction tracing prototype",
+  "scripts": {
+    "start": "node server/src/index.js",
+    "test": "node --test server/src/tests/*.test.js"
+  }
+}
